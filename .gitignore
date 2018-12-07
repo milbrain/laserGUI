@@ -1,0 +1,5 @@
+__pycache__/
+res/*
+tests/*
+xybot/xybot.ino.standard.hex
+xybot/xybot.ino.with_bootloader.standard.hex
